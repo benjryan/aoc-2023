@@ -4,3 +4,4 @@ zig-out
 *.exe
 *.pdb
 *.obj
+*.ilk
